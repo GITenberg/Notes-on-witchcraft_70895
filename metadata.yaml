@@ -1,0 +1,35 @@
+_repo: Notes-on-witchcraft_70895
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kittredge, George Lyman
+    alias: Kittredge, G. L. (George Lyman)
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '43475'
+    url: http://www.gutenberg.org/2009/agents/43475
+    wikipedia: https://en.wikipedia.org/wiki/George_Lyman_Kittredge
+description: '"Reprinted from the Proceedings of the American antiquarian society,
+  vol. XVIII."'
+gutenberg_issued: '2023-06-02'
+identifiers:
+  gutenberg: '70895'
+  lccn: '15003715'
+language: en
+pgterms:marc904: https://archive.org/details/notesonwitchcra00kittgoog/page/n4/mode/2up
+pgterms:marc905: 20221227060215kittredge
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Carol Brown, Carla Foust and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bThe Davis Press, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Witchcraft'
+- !lcc 'BF'
+- GITenberg
+title: Notes on witchcraft
+url: http://www.gutenberg.org/ebooks/70895
